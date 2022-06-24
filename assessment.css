@@ -1,0 +1,35 @@
+
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+body{
+  font-family: "M PLUS 1p";
+  background-color:#dfe0ff;
+  color: #4251c8;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button:hover{
+  background-color: #ffd7f0;
+}
+
+button{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  padding: 5px 20px;
+  background-color: #77536c;
+  border-style: none;
+  color: white;
+}
+
+input{
+  height: 20px;
+}
